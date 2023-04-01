@@ -1,5 +1,7 @@
 ![standard](./standard.gif)
 
+<h3 align="center">As a passionate, ambitious, and aspiring software engineer, I am constantly seeking new opportunities to grow and improve my skills in the rapidly evolving tech industry. With a strong commitment to delivering high-quality work and collaborating effectively with team members, I am eager to learn and implement the latest modern technologies to create innovative solutions. I believe that staying up-to-date with the latest trends is key to staying ahead in this field, and I am excited to be a part of it.</h3>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Error_icc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericcnguyen04) 
 
