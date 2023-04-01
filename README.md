@@ -30,6 +30,8 @@
 
 
 ### ✍️ Random Dev Quote
+<img align="right" alt="computer" width="250" src="./standard cpu.gif"/>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
