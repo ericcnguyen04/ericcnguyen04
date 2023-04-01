@@ -1,6 +1,23 @@
 ![standard](./standard.gif)
 
-<h3 align="center">As a passionate, ambitious, and aspiring software engineer, I am constantly seeking new opportunities to grow and improve my skills in the rapidly evolving tech industry. With a strong commitment to delivering high-quality work and collaborating effectively with team members, I am eager to learn and implement the latest modern technologies to create innovative solutions. I believe that staying up-to-date with the latest trends is key to staying ahead in this field, and I am excited to be a part of it.</h3>
+<h3 align="center">Passionate software engineer eager to learn and implement modern technologies. Committed to delivering high-quality work and collaborating effectively with team members.</h3>
+
+<img align="right" alt="computer" width="250" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
+
+[![](https://visitcount.itsvg.in/api?id=ericcnguyen04&icon=1&color=1)](https://visitcount.itsvg.in)
+
+- 🔭 I’m currently working on **a Social media platform**
+
+- 🌱 I’m currently learning **Typescript!**
+
+- 👨‍💻 All of my projects are available at [https://ericcnguyen.vercel.app/](https://ericcnguyen.vercel.app/)
+
+- 💬 Ask me about **Javascript, React, and CSS**
+
+- 📫 How to reach me **Ericc.win@gmail.com**
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Error_icc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericcnguyen04) 
@@ -27,15 +44,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericcnguyen04&label=Profile%20views&color=0e75b6&style=flat" alt="ericcnguyen04" /> </p>
 
-- 🔭 I’m currently working on **a Social media platform**
-
-- 🌱 I’m currently learning **Typescript!**
-
-- 👨‍💻 All of my projects are available at [https://ericcnguyen.vercel.app/](https://ericcnguyen.vercel.app/)
-
-- 💬 Ask me about **Javascript, React, and CSS**
-
-- 📫 How to reach me **Ericc.win@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
