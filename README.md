@@ -29,12 +29,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcnguyen04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 <img align="right" alt="computer" width="240" src="./standard cpu.gif"/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
--------------------
+
 # 🌐 Come connect with me!
 <p align="left">
 <a href="https://linkedin.com/in/ericcnguyen04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericcnguyen04" height="30" width="40" /></a>
