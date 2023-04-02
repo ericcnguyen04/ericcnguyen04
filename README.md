@@ -1,4 +1,4 @@
-<img align="center" alt="Eric Nguyen" src="./standard.gif"/>
+<p align="center"><img alt="Eric Nguyen" src="./standard.gif"/></p>
 
 <h2 align="center">Passionate software engineer eager to learn and implement modern technologies. Committed to delivering high-quality work and collaborating effectively with team members.</h2>
 
