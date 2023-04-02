@@ -1,4 +1,4 @@
-<img align=center>![standard](./standard.gif)</img>
+<img align="center" alt="Eric Nguyen" src="./standard.gif"/>
 
 <h2 align="center">Passionate software engineer eager to learn and implement modern technologies. Committed to delivering high-quality work and collaborating effectively with team members.</h2>
 
