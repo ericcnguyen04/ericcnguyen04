@@ -1,4 +1,4 @@
-![standard](./standard.gif)
+<img align=center>![standard](./standard.gif)</img>
 
 <h2 align="center">Passionate software engineer eager to learn and implement modern technologies. Committed to delivering high-quality work and collaborating effectively with team members.</h2>
 
