@@ -1,6 +1,6 @@
 <p align="center"><img alt="Eric Nguyen" src="./standard.gif"/></p>
 
-<h2 align="center">Passionate software engineer eager to learn and implement modern technologies. Committed to delivering high-quality work and collaborating effectively with team members.</h2>
+<h2 align="center">Passionate software engineer eager to learn and implement modern technologies. Committed to delivering high-quality work and collaborating effectively with team members</h2>
 
 <img align="right" alt="computer" width="250" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
 
