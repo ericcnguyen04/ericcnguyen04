@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcnguyen04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# ✍️ Random Dev Quote
+# ✍️ Quote of the Day
 <img align="right" alt="computer" width="240" src="./standard cpu.gif"/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
