@@ -6,7 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ericcnguyen04&icon=1&color=1)](https://visitcount.itsvg.in)
 
-- 👔 I'm seeking junior software engineer positions!
+- 👔 I'm seeking software engineer internships!
 
 - 🔭 I’m currently working on **a Social media platform**
 
