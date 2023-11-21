@@ -37,7 +37,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-# 🌐 Come connect with me
+# 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ericcnguyen04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericcnguyen04" height="30" width="40" /></a>
 <a href="https://instagram.com/error_icc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error_icc" height="30" width="40" /></a>
